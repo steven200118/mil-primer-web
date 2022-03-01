@@ -1,1 +1,1 @@
-alert("hola pladzi")
+alert("hola pladzid")
